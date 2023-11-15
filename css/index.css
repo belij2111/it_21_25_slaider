@@ -1,0 +1,10 @@
+.belij-slider {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.belij-slider .slide-img {
+    width: 350px;
+    height: 200px ;
+}
