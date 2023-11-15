@@ -21,11 +21,11 @@ function Slider() {
         });
 
 
-        this.imagesUrls.push("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd-UdsCoDBiYtuhkn42mr4btfk7XXZ2CrSg&usqp=CAU")
-        this.imagesUrls.push("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXO2tc3cfxcRng1DzreduwquXOh0EzUr6hDw&usqp=CAU")
-        this.imagesUrls.push("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6bmlIucVIfLAFFsZQ6A51YM3JwBOCMoryw&usqp=CAU")
-        this.imagesUrls.push("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKA72fLNktjVw5TWA8VlVEmr0-rpwh8IB8g&usqp=CAU")
-        this.imagesUrls.push("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXmyXuXVYGxS_GttLpZ9YWWRIYcejjX-oCA&usqp=CAU")
+        this.imagesUrls.push("https://www.incredit.lv/images/photo-by-maximalfocus-on-unsplash-min.jpg")
+        this.imagesUrls.push("https://m.buro247.ru/images/2020/08/1597664580740478.jpg")
+        this.imagesUrls.push("https://ecotechnica.com.ua/wp-content/uploads/2020/09/645-mercedes-avtr-ecotechnicacomua.jpg")
+        this.imagesUrls.push("https://oir.mobi/uploads/posts/2019-12/thumbs/1575530264_jelektromobil-buduschego-art-77.jpg")
+        this.imagesUrls.push("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeib3B_EP-bikdVJpvIKHDyzo__kRa5M2iLNbgPW58BMEeHJZYO9c8XY2JlLN4gnCLb-k&usqp=CAU")
 
 
 
